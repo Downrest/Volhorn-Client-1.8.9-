@@ -1,20 +1,22 @@
-/// INFORMATION
+# VOLHORN CLIENT
 
-The Volhorn Client (1.8.9) is your average PVP client (if you could even call it that). 
+## INFORMATION
+
+**The Volhorn Client (1.8.9)** is your average PVP client *(if you could even call it that)*. 
 The client is currently only for my friends who want to try it out, as it is still in beta release.
 
 
 The Volhorn Client includes:
- · Custom splash/loading screen
+ **· Custom splash/loading screen
  · Custom menu GUI
- · Featured server
+ · Featured server**
  
-/// VERSION
+## VERSION
 
-Volhorn Client - 3.0.0.
+Volhorn Client - **3.0.0.**
 
-/// DOWNLOAD
+## DOWNLOAD
 
 Click the "Code" button, and click the "Download ZIP" button.
 Once you have downloaded this .zip, extract it.
-And place the "VolhornClient" folder in your versions folder (C:\Users\Example\AppData\Roaming\.minecraft\versions)
+And place the "VolhornClient" folder in your versions folder *(C:\Users\Example\AppData\Roaming\.minecraft\versions)*
